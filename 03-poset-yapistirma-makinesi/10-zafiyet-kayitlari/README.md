@@ -2,7 +2,9 @@
 
 [Makine projesine dön](../README.md)
 
-Aşağıdaki üç zafiyet, başlangıç tasarım varsayımlarının analizidir. V01–V03 proje içi kayıt numaralarıdır. CVE eşleştirmesi, seçilmiş gerçek ürün ve sürüm için daha sonra yapılacaktır
+V01–V03, makinenin başlangıç tasarımındaki varsayımsal zayıflıkları gösterir.
+
+Aday bileşenler için yayımlanmış üç CVE, [CVE Analizi](CVE_Analizi.md) dosyasında incelenmiştir. Her kaydın makineye uygulanabilirliği, seçilen ürün, kurulu sürüm ve erişim koşulları doğrulandıktan sonra belirlenecektir.
 
 | Kayıt | Zafiyet ve geçerlilik koşulu | Etkilenen varlık | Etki ve karar |
 | --- | --- | --- | --- |
